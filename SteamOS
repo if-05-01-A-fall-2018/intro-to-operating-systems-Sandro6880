@@ -1,0 +1,25 @@
+ID 20 % 6 = 2 (Sandro Tadic)
+
+Report on Steam-OS!
+
+Steam-OS is a Debian based Linux operating System developed by Valve.
+It was primarily designed to play games on besides the PC without the use of mouse and keyboard. (There is a Controller for the System).
+You are able to stream games abroad from your PC "(regardless of the OS!)" to your TV.
+It is also possible to edit the source code of Steam-OS by the users,since the system is open source.
+There aren't many build in functions(file manager,image viewer)by default, but you are able to install other softwares
+with the use of GNOME. There are two ways to install the OS to your computer.(Automated Installation method and the Expert method(more customizable)).
+OEM's are allowed to manufacture Steam Machines with Steam-OS on it and are allowed to use it for commercials because of Valves license.(given out to chosen OEM's)
+Users should not consider Steam-OS as a replacement for their desktop operating system. Steam-OS is being designed and optimized for the living room experience.
+
+OEM's = original equipment manufacturer.
+
+Requirements:
+
+The current system hardware requirements for default Steam-OS installations include:[13]
+
+  *  Intel or AMD 64-bit capable processor
+  *  4 GB (or more) RAM
+  *  200 GB or larger hard disk
+  *  NVIDIA (Fermi graphics cards or newer),[14] Intel, or AMD graphics card (RADEON 8500 or newer)
+  *  USB port for installation
+  *  UEFI boot support
